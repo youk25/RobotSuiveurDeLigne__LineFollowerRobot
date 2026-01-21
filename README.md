@@ -70,7 +70,8 @@ Projet réalisé par l'Équipe 1013 dans le cadre du cours Projet intégrateur 1
 Département de génie logiciel / informatique  
 Polytechnique Montréal – 2024-2025
 
-* Auteurs: Yolaine Ntabugi Karemere
+* Auteurs:
+*          Yolaine Ntabugi Karemere
 *          Yousra Khettal
 *          Oriane Claudelle
 *          Émy Xiao
